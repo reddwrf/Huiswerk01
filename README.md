@@ -8,3 +8,7 @@ Dit is even een test
 Git repository kloon vanuit Studio Code
 Nu met toepassing
 
+
+
+
+graag verifieren!
