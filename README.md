@@ -17,4 +17,6 @@ Graag verifieren!
 
 We wijzigen volgens de procedure!
 
-hardnekkig
+
+Prod is read-only geworden, dus alleen vanaf OTA mergen naar Prod.
+
