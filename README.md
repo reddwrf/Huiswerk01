@@ -1,9 +1,10 @@
 # Huiswerk01
-Virtual machine via een CI/CD OTA
+Virtual machine via een CI/CD OT
 
-Nu met aanvulling van Anco
+# Edwin Test
+Dit is even een test 
 
-Iets anders
-Nog iets anders van Edwin
+# Anco 12-2-2024
+Git repository kloon vanuit Studio Code
+Nu met toepassing
 
-Test
