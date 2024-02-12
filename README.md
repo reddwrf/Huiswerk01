@@ -17,3 +17,4 @@ Graag verifieren!
 
 We wijzigen volgens de procedure!
 
+hardnekkig
